@@ -2,9 +2,6 @@
 
 ###
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhxZmZzdzNlZGQxbDRwNG9jNWpvZnd2ODNkODBkNjZrMmIxOTZqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mc5nIIAuopC1O/giphy.gif"  />
-</div>
 
 ###
 
